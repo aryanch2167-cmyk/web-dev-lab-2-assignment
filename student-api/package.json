@@ -1,0 +1,17 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "A REST API for managing student records using Express.js",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": ["express", "rest-api", "crud", "students"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
